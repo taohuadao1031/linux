@@ -1,4 +1,5 @@
-##The last day of each month execute the script 
+# The last day of each month execute the script 
+
 #!/bin/sh
  
 DAY=$(date -d "$(date +%d) +1 day" +%e)
