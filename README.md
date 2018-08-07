@@ -1,2 +1,1 @@
-# docker
-# linux
+# linux related
