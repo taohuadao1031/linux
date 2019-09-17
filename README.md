@@ -1,3 +1,2 @@
 # linux related document 
-including but not limited to ： 
-# Shell-scripts Nginx Apache MySQL Zabbix PHP ...
+# git push test
